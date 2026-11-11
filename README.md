@@ -11,6 +11,8 @@ folder, folder name `exemplar-design-system`). For example:
 ```sh
 git clone https://github.com/miguel-zoux/exemplar-design-system.git
 git clone https://github.com/miguel-zoux/xblock-flashcards-prototype.git
+(cd exemplar-design-system && npm install)   # its fonts come from its own @fontsource packages
+(cd xblock-flashcards-prototype/frontend && npm install && npm run build)
 ```
 
 1. Add the dependency to the block's `frontend/package.json`:
