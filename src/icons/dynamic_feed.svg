@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="dynamic_feed">
+<g id="Vector">
+<path d="M16 16H12V30C12 32.2 13.8 34 16 34H34V30H16V16Z" fill="#327D8A"/>
+<path d="M40 6H24C21.8 6 20 7.8 20 10V22C20 24.2 21.8 26 24 26H40C42.2 26 44 24.2 44 22V10C44 7.8 42.2 6 40 6ZM40 22H24V14H40V22Z" fill="#327D8A"/>
+<path d="M8 24H4V38C4 40.2 5.8 42 8 42H26V38H8V24Z" fill="#327D8A"/>
+</g>
+</g>
+</svg>

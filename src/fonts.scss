@@ -1,0 +1,26 @@
+// Sora and Lato (SIL Open Font License), latin subset, woff2 only.
+// They get their own family names so loading them never changes how the rest
+// of the LMS page looks; the type tokens fall back to the plain names.
+@font-face {
+  font-family: 'Exemplar Sora';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('@fontsource/sora/files/sora-latin-700-normal.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Exemplar Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('@fontsource/lato/files/lato-latin-400-normal.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Exemplar Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('@fontsource/lato/files/lato-latin-700-normal.woff2') format('woff2');
+}
